@@ -70,4 +70,4 @@ interests = [
 
 +++
 
-I am a Software Engineer at Global Energy Interconnection Research Institute North America(GEIRI North Amercia). I work in the team of Artificial Intelligence & Its Application
+I am a Software Engineer at Global Energy Interconnection Research Institute North America(GEIRI North Amercia). I work in the team of Artificial Intelligence & Its Application.
