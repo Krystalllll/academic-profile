@@ -13,7 +13,7 @@ role = "Software Engineer"
 organizations = [ { name = "GEIRI North America", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed systems, mobile computing and programmable matter."
+bio = "I am a Software Engineer at Global Energy Interconnection Research Institute North America(GEIRI North Amercia). I work in the team of Artificial Intelligence & Its Application."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -21,25 +21,20 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
+  "Data Analytics",
   "Information Retrieval"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MEng in Computer Science"
+  institution = "Cornell University"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Electrical Engineering"
+  institution = "Penn state University"
+  year = 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
